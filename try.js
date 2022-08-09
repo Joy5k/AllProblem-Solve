@@ -24,21 +24,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-// function Money(taka) {
-//     let apple = 300;
-//     const orange = 400;
-//     const sum = apple + orange;
-//     let returnMoney = taka - sum;
-//     return returnMoney;
-// }
-// const result = Money(1000);
-// console.log(result);
+const firstStr = 'I am goin to be';
+var secondStr = 'an awesome webdeveloper';
+const sumStr = firstStr.concat(' ',secondStr);
+console.log(sumStr);
