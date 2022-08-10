@@ -419,3 +419,16 @@ function positiveNumber(number) {
 const all = [5, 65, 4, 5, 6, 98, -7, 7, 10];
 const isPositvie = positiveNumber(all);
 console.log(isPositvie);
+// ============================= PROBLEM 34 SOLVE===============
+// ) একটা ফাংশন লি খবা যে টাকে তুমি ক োন সংখ্যাকে ইনপুট হি সে বে দি লে সে সে ই সংখ্যার
+// square করে সে ই square কে রি টার্ন করবে ।
+// অর্থাৎ তুমি ইনপুট হি সে বে 5 দি লে সে টাতে স্কয়ারে হি সে বে 25 আউটপুট হি সে বে পাবে ।
+
+
+function num(number) {
+    let sqrThevalue = number * number;
+    return sqrThevalue;
+}
+const sqrIt = num(5);
+console.log(sqrIt);
+

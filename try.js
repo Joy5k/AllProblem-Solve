@@ -105,6 +105,17 @@ const bestFriendIs = bestFriends(myFriends);
 // })[1];
 // // console.log(secondLargestNumber) // 120
 
-const arr = [14, 58, 20, 77, 66, 2, 42, 67, 42, 4]
-const min = Math.min(...arr)
-console.log(min)
+// const arr = [14, 58, 20, 77, 66, 2, 42, 67, 42, 4]
+// const min = Math.min(...arr)
+// console.log(min)
+// function addValue(num) {
+//     let sqr = Math.sqrt(num);
+//     // console.log(sqr);
+//     return sqr;
+// }
+// const setValue = addValue(25);
+
+
+
+// console.log(setValue);
+
